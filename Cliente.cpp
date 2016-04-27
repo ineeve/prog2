@@ -2,7 +2,7 @@
 
 
 Cliente::Cliente(ifstream & in){
-  // A IMPLEMENTAR
+  // kldsn
 }
 
 
